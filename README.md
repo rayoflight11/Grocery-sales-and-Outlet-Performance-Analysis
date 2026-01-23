@@ -1,5 +1,10 @@
 # Grocery-sales-and-Outlet-Performance-Analysis
-
+## Table of Content
+   - [Project Overview](#project-overview)
+   - [Business Problem](#business-problem)
+   - [Data Sources](#data-sources)
+   - [The Process](#the-process)
+### Project Overview
 This project analyzes grocery sales data to uncover insights on product performance, outlet efficiency, and key factors influencing sales. The analysis was conducted using Power BI with interactive dashboards and business-focused KPIs.
 <img width="1178" height="660" alt="Sales_analysis" src="https://github.com/user-attachments/assets/1c1e5e61-7719-4fc6-8e41-03e7d837b26c" />
 <img width="1176" height="662" alt="product and outlets_analysis" src="https://github.com/user-attachments/assets/6317795c-9775-43da-a9b4-54aad446d584" />
