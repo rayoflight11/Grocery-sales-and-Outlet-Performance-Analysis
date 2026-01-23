@@ -35,4 +35,17 @@ The dashboard was designed with a clean, business-focused layout and includes:
 - Line charts for trend analysis
 - Stacked visuals to compare sales by fat content across outlet types
 - Built interactive slicers funtionality
+  
+### Key Insights 
+-	Fruits and Vegetables and Snack Food are major revenue contributors
+-	Low-fat products outperform regular products across most outlet types
+-	Medium-sized outlets generate the highest total sales
+-	Tier 3 Outlet locations show higher average sales per outlet
+-	Older outlets demonstrate more consistent sales performance
+  
+### Tools Used
+-	Power BI Desktop
+-	Power Query (data cleaning and transformation)
+-	DAX (KPIs and calculated measures)
+-	GitHub (project documentation and version control)
 
