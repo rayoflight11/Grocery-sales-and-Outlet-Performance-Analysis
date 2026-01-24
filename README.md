@@ -3,7 +3,9 @@
    - [Project Overview](#project-overview)
    - [Business Problem](#business-problem)
    - [Data Sources](#data-sources)
-   - [The Process](#the-process)
+   - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+   - [Data Modeling](#data-modeling)
+   - [Dax Measures Created](#dax-measures-created)
 ### Project Overview
 This project analyzes grocery sales data to uncover insights on product performance, outlet efficiency, and key factors influencing sales. The analysis was conducted using Power BI with interactive dashboards and business-focused KPIs.
 <img width="1178" height="660" alt="Sales_analysis" src="https://github.com/user-attachments/assets/1c1e5e61-7719-4fc6-8e41-03e7d837b26c" />
@@ -19,17 +21,16 @@ The dataset used in this project contains grocery retail data with the following
 -	Outlet details: outlet identifier, outlet type, outlet size, outlet location type, outlet establishment year.
 -	Performance metrics: sales and customer ratings.
 
-### The Process
-#### 1.Data Cleaning and Transformation
+### Data Cleaning and Transformation
 Power Query (Power BI) was used to prepare the dataset for analysis by :
 - Standardizing categorical fields (e.g item fat content).
 - Correcting data types for numeric and date fields.
 - Removing duplicates and unnecessary columns.
-#### 2.Data Modeling
+### Data Modeling
 - Proper relationships established in the table.
 - Fact table containing sales and ratings.
 -	Dimension attributes for items and outlets.
-#### 3.Dax Measures Created
+### Dax Measures Created
 Created measures using DAX for KPIs like:
  -  Total sales.
  - Average sales per outlet.
