@@ -6,6 +6,11 @@
    - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
    - [Data Modeling](#data-modeling)
    - [Dax Measures Created](#dax-measures-created)
+   - [Dashboard Design and Visuals](#dashboard-design-and-visuals)
+   - [Key Insights From Dashboard](#key-insights-from-dashboard)
+   - [Tools Used](#tools-used)
+   - [Project Deliverables](#project-deliverables)
+   - [Potential Extentions](#potential-extentions)
 ### Project Overview
 This project analyzes grocery sales data to uncover insights on product performance, outlet efficiency, and key factors influencing sales. The analysis was conducted using Power BI with interactive dashboards and business-focused KPIs.
 <img width="1178" height="660" alt="Sales_analysis" src="https://github.com/user-attachments/assets/1c1e5e61-7719-4fc6-8e41-03e7d837b26c" />
