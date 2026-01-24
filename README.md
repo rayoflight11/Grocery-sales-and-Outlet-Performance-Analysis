@@ -18,7 +18,7 @@ This project analyzes grocery sales data to uncover insights on product performa
 
 ### Business Problem
 Grocery business generate large volumes of sales data across products and outlets but often lack clear visibility into what drives revenue and performance. Without actionable insights, it becomes challenging to optimize inventory, product assortment, and outlet strategy.
-This project aims to transform grocery sales data into meaningful insights that help identify top-performing products, effective outlet types, examine sales trends based on outlet establishment year and key drivers of sales.
+This project aims to transform grocery sales data into meaningful insights that help identify top-performing products, effective outlet types, sales trends based on outlet establishment year and key drivers of sales.
 
 ### Data Sources
 The dataset used in this project contains grocery retail data with the following key informations:
